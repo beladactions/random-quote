@@ -1,0 +1,53 @@
+
+
+.container {
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+    transition: background-color 0.5s ease;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+  }
+  
+  #quote {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+  }
+  
+  button {
+    margin-top: 1.5rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.25rem;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0069d9;
+  }
+  
+  .background-blue {
+    background-color: #007bff;
+  }
+  
+  .background-red {
+    background-color: #dc3545;
+  }
+  
+  .background-green {
+    background-color: #28a745;
+  }
+  
+  .background-yellow {
+    background-color: #ffc107;
+  }
+  
+  .background-purple {
+    background-color: #6f42c1;
+  }
+  
